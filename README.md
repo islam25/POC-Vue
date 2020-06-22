@@ -1,4 +1,4 @@
-# school-app
+# POC-app
 
 ## Project setup
 ```
